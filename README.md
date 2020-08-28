@@ -23,5 +23,5 @@
 <div align="center">
   <a href="mailto:leosanchezwebdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/leosanchez-webdev" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.leandro-sanchez.com/" target="_blank"><img src="https://img.shields.io/badge/-My%20Website-lightgrey?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.leandro-sanchez.com/" target="_blank"><img src="https://img.shields.io/badge/-My%20Website-ff8c00?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </div>
