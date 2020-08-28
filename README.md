@@ -7,9 +7,9 @@
 
 ### <div align="center">Reach Me</div>
 <div align="center>
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leosanchezwebdev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leosanchez-webdev/)
-[![leandro-sanchez.com](https://img.shields.io/badge/-Leandro%20Sanchez.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.leandro-sanchez.com/)
+<a href="mailto:leosanchezwebdev@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white/></a>
+<a href="https://www.linkedin.com/in/leosanchez-webdev"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.leandro-sanchez.com/"><img src="https://img.shields.io/badge/-Leandro%20Sanchez.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
             </div>
 
 <!--
