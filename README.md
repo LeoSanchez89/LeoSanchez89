@@ -14,6 +14,11 @@
 
 ### <div align="center">Stuff I'm Good At</div>
 <div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript"/>
-  
+<!--   <img src=""/> -->
+  <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5"/>
+  <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3"/>
+  <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript"/>
+  <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js"/>
 </div>
