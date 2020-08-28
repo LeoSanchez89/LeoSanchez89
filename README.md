@@ -4,7 +4,8 @@
   <p>:mortar_board: I studied Full-Stack Web Development and Computer Science at <a href="https://lambdaschool.com/">Lambda School</a>.</p>
   <p>:computer: Coding had been my passion since December 2019.</p>
 </div>
-#### <div align="center">Reach Me</div>
+
+##### <div align="center">Reach Me</div>
 
 
 
