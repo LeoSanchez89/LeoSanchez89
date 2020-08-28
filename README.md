@@ -1,8 +1,8 @@
 
 # <div align="center">Hi, I'm Leo<img src="https://media.giphy.com/media/SSiTXd0u9gt2x1yfiB/giphy.gif" height="50" width="50"/></div> 
-<div align="center"><img src="https://www.leandro-sanchez.com/assets/img/logo1.png" style="border-radius:50%"/></div>
 <div align="center">
-  <p>I studied Full-Stack Web Development at <a href="https://lambdaschool.com/">Lambda School</a>.</p>
+  <p>:mortar_board: I studied Full-Stack Web Development and Computer Science at <a href="https://lambdaschool.com/">Lambda School</a>.</p>
+  
   
   
   
