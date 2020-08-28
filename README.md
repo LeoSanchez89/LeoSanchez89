@@ -5,13 +5,6 @@
   <p>:computer: Coding had been my passion since December 2019.</p>
 </div>
 
-### <div align="center">Reach Me</div>
-<div align="center">
-  <a href="mailto:leosanchezwebdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/leosanchez-webdev" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.leandro-sanchez.com/" target="_blank"><img src="https://img.shields.io/badge/-Leandro%20Sanchez.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-</div>
-
 ### <div align="center">Stuff I'm Good At</div>
 <div align="center">
 <!--   <img src=""/> -->
@@ -24,5 +17,11 @@
   <img src="https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite&logoColor=003B57"/>
   <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python"/>
   <img src="https://img.shields.io/badge/-Postgres-000000?style=flat&logo=postgresql&logoColor=336791"/>
-  <img src="https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest&logoColor=C21325"/>
+</div>
+
+### <div align="center">Reach Me</div>
+<div align="center">
+  <a href="mailto:leosanchezwebdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/leosanchez-webdev" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.leandro-sanchez.com/" target="_blank"><img src="https://img.shields.io/badge/-Leandro%20Sanchez.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </div>
