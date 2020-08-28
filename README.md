@@ -8,7 +8,7 @@
 ### <div align="center">Reach Me</div>
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leosanchezwebdev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leosanchez-webdev/)
-[![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
+[![adamalston.com](https://img.shields.io/badge/-Leandro-Sanchez.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.leandro-sanchez.com/)
 
 
 
