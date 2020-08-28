@@ -23,6 +23,6 @@
   <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933"/>
   <img src="https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite&logoColor=003B57"/>
   <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python"/>
-  <img src="https://img.shields.io/badge/-Postgres-000000?style=flat&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest"/>
+  <img src="https://img.shields.io/badge/-Postgres-000000?style=flat&logo=postgresql&logoColor=336791"/>
+  <img src="https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest&logoColor=C21325"/>
 </div>
