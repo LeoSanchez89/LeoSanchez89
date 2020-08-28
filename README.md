@@ -1,5 +1,4 @@
-# <div align="center">Hi, I'm Leo.</div>
-![Splash Highlight](https://media.giphy.com/media/SSiTXd0u9gt2x1yfiB/giphy.gif)
+# <div align="center">Hi, I'm Leo.</div> ![Splash Highlight](https://media.giphy.com/media/SSiTXd0u9gt2x1yfiB/giphy.gif =50x50)
 
 
 
