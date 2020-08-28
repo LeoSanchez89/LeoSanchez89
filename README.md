@@ -16,9 +16,10 @@
 <div align="center">
 <!--   <img src=""/> -->
   <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5"/>
-  <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3"/>
+  <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript"/>
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react"/>
   <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC"/>
   <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite"/>
 </div>
