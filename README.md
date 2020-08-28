@@ -1,4 +1,5 @@
-# <div align="center">Hi, I'm Leo.</div> # <img src="https://media.giphy.com/media/SSiTXd0u9gt2x1yfiB/giphy.gif" height="50" width="50"/>
+
+# <div align="center"><img src="https://media.giphy.com/media/SSiTXd0u9gt2x1yfiB/giphy.gif" height="50" width="50"/>Hi, I'm Leo.</div> 
 
 
 
