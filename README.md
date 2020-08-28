@@ -14,6 +14,6 @@
 
 ### <div align="center">Stuff I'm Good At</div>
 <div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-lightgrey?style=flat&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript"/>
   
 </div>
