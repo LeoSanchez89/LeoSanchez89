@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite&logoColor=003B57"/>
   <img src="https://img.shields.io/badge/-Postgres-000000?style=flat&logo=postgresql&logoColor=336791"/>
 </div>
-
+<br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leosanchez89&show_icons=true&theme=tokyonight" alt="LeoSanchez89's github stats"/>
 </div>
