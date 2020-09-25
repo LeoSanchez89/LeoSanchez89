@@ -7,7 +7,6 @@
 
 ### <div align="center">Stuff I'm Good At</div>
 <div align="center">
-<!--   <img src=""/> -->
   <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5"/>
   <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript"/>
@@ -19,7 +18,9 @@
   <img src="https://img.shields.io/badge/-Postgres-000000?style=flat&logo=postgresql&logoColor=336791"/>
 </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=leosanchez89&show_icons=true&theme=tokyonight" alt="LeoSanchez89's github stats"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leosanchez89&show_icons=true&theme=tokyonight" alt="LeoSanchez89's github stats"/>
+</div>
 
 ### <div align="center">Reach Me</div>
 <div align="center">
