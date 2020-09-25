@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/-Postgres-000000?style=flat&logo=postgresql&logoColor=336791"/>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leosanchez89)](https://github.com/leosanchez89/github-readme-stats)
+
 ### <div align="center">Reach Me</div>
 <div align="center">
   <a href="mailto:leosanchezwebdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-GMAIL-black?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
