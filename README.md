@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-Postgres-000000?style=flat&logo=postgresql&logoColor=336791"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leosanchez89&hide=css)](https://github.com/leosanchez89/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leosanchez89&show_icons=true&theme=radical)
 
 ### <div align="center">Reach Me</div>
 <div align="center">
