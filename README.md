@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://www.canva.com/design/DAEJNZzOxYg/oj3uMQ_dBbTRPKYU0FZeFw/view?utm_content=DAEJNZzOxYg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
+  <img src="https://gfycat.com/downrightnearacouchi"/>
 </div>
 
 ### <div align="center">Stuff I'm Good At</div>
