@@ -5,10 +5,6 @@
   <p>:computer: Coding has been my passion since December 2019.</p>
 </div>
 
-<div align="center">
-  <img src="https://giant.gfycat.com/DownrightNearAcouchi.webm"/>
-</div>
-
 ### <div align="center">Stuff I'm Good At</div>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5"/>
