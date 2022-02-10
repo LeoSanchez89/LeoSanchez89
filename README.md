@@ -5,7 +5,7 @@
   <p>:computer: Coding has been my passion since December 2019.</p>
 </div>
 
-### <div align="center">Stuff I'm Good At</div>
+### <div align="center">Stuff I'm Good At:</div>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5"/>
   <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6"/>
